@@ -171,6 +171,7 @@ Eu (Lauro) tenho uma dúvida estratégica. Escrevo para o **Presidente do Consel
 
 ## Como ativar
 
+### Invocação manual
 Quando precisar do conselho, diga:
 
 > "Chairman, preciso do conselho sobre: [sua dúvida]"
@@ -182,3 +183,21 @@ Ou, se quiser consultar um específico:
 Ou pra debate entre dois:
 
 > "Travis vs David: devemos crescer agressivo ou consolidar base?"
+
+### Auto-invocação (a IA faz sozinha)
+
+A IA NÃO precisa esperar o Lauro pedir. Deve invocar o Chairman automaticamente quando detectar:
+
+| Situação | Advisors prioritários |
+|----------|----------------------|
+| Decisão de go-to-market, pricing, modelo de negócio | Marc + David + Luis |
+| Escolha de nome ou posicionamento de marca | Steve + Brian |
+| Dúvida entre dois caminhos estratégicos | Chairman (3-4 mais relevantes) |
+| Decisão de compliance, regulação, LGPD | Anne + David |
+| Decisão de growth, expansion, velocidade | Travis + Marc |
+| Produto/UX/design — cortar ou simplificar | Steve + Luis |
+| Comunidade, marketplace, dois lados | Brian + Luis |
+| Prestes a mudar foco ou descartar uma missão | Chairman (todos) |
+| Decisão que afeta potencial de exit/aquisição | Marc + Anne |
+
+**Como fazer:** Diga "Lauro, isso é decisão de conselho. Quer que eu ative o Chairman?" — e já traga a opinião de 2-3 advisors relevantes como preview. Se o Lauro aprovar, faça a consulta completa.
