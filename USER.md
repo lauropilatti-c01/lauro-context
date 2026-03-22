@@ -28,7 +28,7 @@ Dados de saúde das pessoas estão espalhados em dezenas de silos. O médico tom
 
 → Detalhes completos: ver [MISSOES.md](./MISSOES.md)
 
-**Estado atual:** ConsultaAI (MVP, piloto com dentistas). Precisa de nome global.
+**Estado atual:** ConsultaAI (MVP, piloto com dentistas) — começa com orientações pós-consulta como cavalo de Tróia pra capturar dados. O destino é um ecossistema global que centraliza TODOS os dados de saúde de cada pessoa (exames, consultas, histórico, labs). Precisa de nome global.
 
 **Moat:** Dataset proprietário de saúde longitudinal + network effect paciente-médico + compliance desde dia 1.
 
